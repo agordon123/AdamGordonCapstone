@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AdamGordonCapstone</string>
+    <string name="loginView">Create User or Login w/ Google</string>
+    <string name="nameView">Username : </string>
+    <string name="pwView">Password : </string>
+    <string name="login_button">Create New User</string>
+    <string name="registered_login">Already Registered? Click here to sign in</string>
+<string name="edit_profile">Edit Profile</string>
+    <string name="google_button">Sign in With Google Credentials</string>
+    <string name="google_prompt">Sign in using your Google Account!</string>
+    <string name="welcome">Welcome, </string>
+    <string name="sign_out">Sign Out</string>
+    <string name="browse_photos">Browse Photos</string>
+    <string name="take_photos">Take Photos</string>
+    <string name="title_activity_take_photos">TakePhotosActivity</string>
+    <string name="web_client_id" >395306493949-cisfphtuo6787jvsp2oh7u8f71p3i9od.apps.googleusercontent.com</string>
+
+
+</resources>
